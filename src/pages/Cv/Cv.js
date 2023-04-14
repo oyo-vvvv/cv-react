@@ -6,7 +6,7 @@ import Footer from '../../components/Footer/Footer'
 import { BrowserRouter } from 'react-router-dom'
 
 const Cv = () => {
-    const [name, setName] = useState("Yoav Cartozo")
+    const [name, setName] = useState("Yoav CartozOo")
 
     const HandleName = (cb) => {
       setName(cb)
